@@ -1,0 +1,6 @@
+backend/env
+backend/volunteerapi/.idea
+backend/volunteerapi/volunteerapi/__pycache__/
+react-client/node_modules
+
+
